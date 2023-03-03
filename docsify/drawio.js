@@ -1,4 +1,4 @@
-const $_remoteData = {
+const $_drawio = {
 	"plc" : {
 		"001": {
 			"-":"描述",
