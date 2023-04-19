@@ -1,4 +1,4 @@
-const $_drawio = {
+const _drawio = {
 	"spring" : {
 		"B01": { 
 			"-":"[ApplicationContext] 类继承图",
